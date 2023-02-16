@@ -8,8 +8,12 @@ export const GlobalStyle = createGlobalStyle`
      --pink-500: #B7245C;
      --pink-800: #93032E; 
 
+     --green-300: #41D3BD;
+
     --gray-100: #e1e1e6;
     --gray-300: #a8a8b3;
+    --gray-400: #94a3b8;
+    --gray-600: #4b5563;
     --gray-700: #323238;
     --gray-800: #29292e;
     --gray-850: #1f2729;
